@@ -1,7 +1,4 @@
 package app;
-
-import java.io.IOException;
-import java.net.MalformedURLException;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
